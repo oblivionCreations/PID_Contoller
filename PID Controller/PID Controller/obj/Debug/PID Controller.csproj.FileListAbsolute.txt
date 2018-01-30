@@ -1,0 +1,55 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\bin\Debug\PID Controller.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\bin\Debug\PID Controller.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\bin\Debug\PID Controller.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID_Controller.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID_Controller.PIDController.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\PID Controller.exe.config
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\PID Controller.exe
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\PID Controller.pdb
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Chart.Base.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Chart.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Diagram.Base.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Diagram.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Edit.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Gauge.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Chart.Base.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Chart.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Diagram.Base.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Diagram.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Edit.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Gauge.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID_Controller.Animation.resources
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID_Controller.PIDController.resources
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID_Controller.Properties.Resources.resources
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID_Controller.Radiator.resources
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.exe
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.pdb
+C:\Users\Admin\Desktop\baclup\Projects_2017_12_10_125942\Projects\PID Controller\PID Controller\obj\Debug\PID Controller.csprojResolveAssemblyReference.cache
